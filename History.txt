@@ -1,0 +1,10 @@
+=== 0.2.1 / 2011-01-25
+
+* First Ruby 1.9.2 compatibility release. Thanks to Don March for the input
+  for this fix. No significant changes have been made to the functionality.
+
+=== 0.2.0 / 2005-01-19
+
+* Initial release. Ported from the Perl by Kaspar Schiess with assistance from
+  Austin Ziegler.
+

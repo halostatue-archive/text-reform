@@ -1,0 +1,11 @@
+.autotest
+COPYING.txt
+History.txt
+LICENSE.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/text_reform
+lib/text-reform.rb
+lib/text/reform.rb
+test/test_text_reform.rb
